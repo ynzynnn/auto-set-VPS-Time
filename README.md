@@ -11,14 +11,13 @@ Script bash ringan dan otomatis untuk mengatur timezone sistem Ubuntu ke **Asia/
 
 - ✅ Otomatis tanpa input manual
 - ⚙️ Menggunakan `timedatectl` (modern Ubuntu systemd support)
-- 🔐 Aman dan bebas di-custom
 - 💡 Cocok untuk server & VPS yang baru setup
 
 ---
 
 ## 🚀 Cara Pakai
 
-### 1. Clone Repo
+### 1. Execute Command di bawah
 
 ```bash
 bash <(curl -s https://tiannetwork.cloud/tools/time.sh
