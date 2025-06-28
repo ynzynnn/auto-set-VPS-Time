@@ -2,7 +2,6 @@
 
 ![Shell Script](https://img.shields.io/badge/Shell-Bash-blue?logo=gnu-bash)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-✔️-e95420?logo=ubuntu)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Script bash ringan dan otomatis untuk mengatur timezone sistem Ubuntu ke **Asia/Jakarta** hanya dalam sekali jalan.
 
