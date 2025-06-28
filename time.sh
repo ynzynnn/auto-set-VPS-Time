@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# Script otomatis mengubah timezone ke Asia/Jakarta
+# Dibuat Oleh tian
 
 echo "🔧 Mengatur timezone ke Asia/Jakarta..."
 
